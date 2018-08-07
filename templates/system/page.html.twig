@@ -55,7 +55,6 @@
 
 {# Header #}
 {% if page.navigation or page.navigation_collapsible or page.hero %}
-
   <header role="banner">
 
     {# Hero #}
@@ -74,7 +73,6 @@
           theme.settings.navbar_position ? 'navbar-' ~ theme.settings.navbar_position|clean_class : container,
         ]
       %}
-
       <div {{ navbar_attributes.addClass(navbar_classes) }} id="navbar" />
         <div class="navbar-header">
           {{ page.navigation }}
@@ -98,7 +96,6 @@
         {% if not navbar_attributes.hasClass(container) %}
           </div>
         {% endif %}
-
       </div>
     {% endblock %}
   </header>

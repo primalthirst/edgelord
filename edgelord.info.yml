@@ -7,7 +7,7 @@ description: 'Edgelord is a bootstrap subtheme with a fullscreen hero image regi
 package: 'Bootstrap'
 
 regions:
-  hero: 'Fullscreen hero'
+  hero: 'Fullscreen Hero'
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'

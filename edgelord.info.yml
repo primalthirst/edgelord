@@ -3,7 +3,7 @@ type: theme
 base theme: bootstrap
 
 name: 'Edgelord'
-description: 'Edgelord is a bootstrap subtheme with a fullscreen hero image region.'
+description: 'Edgelord is a bootstrap subtheme with a region for a fullscreen hero image.'
 package: 'Bootstrap'
 screenshot: 'edgelord.png'
 

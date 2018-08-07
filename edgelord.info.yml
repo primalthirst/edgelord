@@ -1,0 +1,24 @@
+core: 8.x
+type: theme
+base theme: bootstrap
+
+name: 'Edgelord'
+description: 'Edgelord is a bootstrap subtheme with a fullscreen hero image region.'
+package: 'Bootstrap'
+
+regions:
+  hero: 'Fullscreen hero'
+  navigation: 'Navigation'
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries:
+  - 'edgelord/global-styling'

@@ -5,6 +5,7 @@ base theme: bootstrap
 name: 'Edgelord'
 description: 'Edgelord is a bootstrap subtheme with a fullscreen hero image region.'
 package: 'Bootstrap'
+screenshot: 'edgelord.png'
 
 regions:
   hero: 'Fullscreen Hero'
